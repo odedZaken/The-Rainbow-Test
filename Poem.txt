@@ -8,11 +8,10 @@ yellow
 indigo
 pink
 unicorns and lepracons
-These are the colors of the rainbow!
-
-and unicorns
+ponies
 I also added dogs in another branch
 
 
 These are the colors of the rainbow!
 indigo
+and unicorns
