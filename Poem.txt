@@ -5,5 +5,8 @@ green
 blue
 red
 yellow
+indigo
+black!
 
 These are the colors of the rainbow!
+and black and indigo
