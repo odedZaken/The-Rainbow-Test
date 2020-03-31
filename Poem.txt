@@ -5,8 +5,13 @@ green
 blue
 red
 yellow
+indigo
+pink
 unicorns and lepracons
 ponies
+I also added dogs in another branch
+
 
 These are the colors of the rainbow!
+indigo
 and unicorns
