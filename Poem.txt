@@ -6,6 +6,7 @@ blue
 red
 yellow
 unicorns and lepracons
+ponies
 
 These are the colors of the rainbow!
 and unicorns
