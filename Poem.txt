@@ -5,6 +5,7 @@ green
 blue
 red
 tomato
+potato
 yellow
 indigo
 pink
