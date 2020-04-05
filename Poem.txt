@@ -5,6 +5,8 @@ green
 blue
 red
 tomato
+potato
+green salad
 yellow
 indigo
 pink
