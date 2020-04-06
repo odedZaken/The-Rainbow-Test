@@ -5,3 +5,5 @@ puffy
 gimanji
 bony
 and others..
+this line is added using vim!
+This line is added using echo
