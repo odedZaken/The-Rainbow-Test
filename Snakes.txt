@@ -1,2 +1,0 @@
-Snakes are coool
-This line is added with "vim"
