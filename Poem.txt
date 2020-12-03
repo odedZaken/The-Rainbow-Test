@@ -3,3 +3,5 @@ yellow
 red
 blue
 black
+boy
+girl
