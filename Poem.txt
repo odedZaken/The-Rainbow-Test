@@ -1,1 +1,5 @@
 These are the colors of the Rainbow:
+yellow
+red
+blue
+black
