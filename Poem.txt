@@ -5,3 +5,5 @@ blue
 black
 boy
 girl
+green
+purple
