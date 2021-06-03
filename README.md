@@ -1,4 +1,3 @@
 # The-Rainbow-Test
-My Rainbow Poem
-This is a test poem written by me..
+This is a test repo for practice
 
